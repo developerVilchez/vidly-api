@@ -813,3 +813,65 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-15T23:30:18.657Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2018-02-15T23:30:18.919Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-02-15T23:30:18.926Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-10-12T01:41:51.640Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-10-12T01:41:51.698Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-10-12T01:48:20.076Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-10-12T01:49:05.118Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-10-12T01:49:05.155Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2020-10-12T02:02:20.610Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-10-12T02:02:20.660Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2020-10-12T02:02:33.582Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-10-12T02:02:33.627Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2020-10-12T02:03:16.762Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_development...","timestamp":"2020-10-12T02:03:17.109Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T02:03:46.529Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-10-12T02:03:46.578Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2020-10-12T02:04:22.157Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_development...","timestamp":"2020-10-12T02:04:22.334Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:09:07.391Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:10:00.580Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:13:06.386Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:13:57.470Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:17:42.724Z"}
+{"level":"info","message":"Connected to mongodb+srv://admin:admin172$$@cluster0.udkdg.mongodb.net/admin?retryWrites=true&w=majority...","timestamp":"2020-10-12T18:17:44.248Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:22:05.761Z"}
+{"level":"info","message":"Connected to mongodb+srv://admin:admin@cluster0.udkdg.mongodb.net/admin?retryWrites=true&w=majority...","timestamp":"2020-10-12T18:22:06.851Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:26:48.674Z"}
+{"level":"info","message":"Connected to mongodb+srv://admin123:admin@cluster0.udkdg.mongodb.net/admin?retryWrites=true&w=majority...","timestamp":"2020-10-12T18:26:49.746Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:30:01.277Z"}
+{"level":"info","message":"Connected to mongodb+srv://admin:admin123@cluster0.udkdg.mongodb.net/admin?retryWrites=true&w=majority...","timestamp":"2020-10-12T18:30:03.098Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:32:58.914Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:34:39.935Z"}
+{"level":"info","message":"Connected to mongodb+srv://admin:admin123@cluster0.udkdg.mongodb.net/admin?retryWrites=true&w=majority...","timestamp":"2020-10-12T18:34:40.963Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:38:03.204Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:40:10.450Z"}
+{"level":"info","message":"Connected to mongodb://admin:admin123@cluster0-shard-00-00.udkdg.mongodb.net:27017,cluster0-shard-00-01.udkdg.mongodb.net:27017,cluster0-shard-00-02.udkdg.mongodb.net:27017/<dbname>?ssl=true&replicaSet=atlas-8ml4s5-shard-0&authSource=admin&retryWrites=true&w=majority...","timestamp":"2020-10-12T18:40:12.088Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:44:52.511Z"}
+{"level":"info","message":"Connected to mongodb://prueba:prueba123@cluster0-shard-00-00.udkdg.mongodb.net:27017,cluster0-shard-00-01.udkdg.mongodb.net:27017,cluster0-shard-00-02.udkdg.mongodb.net:27017/<dbname>?ssl=true&replicaSet=atlas-8ml4s5-shard-0&authSource=admin&retryWrites=true&w=majority...","timestamp":"2020-10-12T18:44:54.179Z"}
+{"message":"user is not allowed to do action [find] on [<dbname>.users]","name":"MongoError","ok":0,"errmsg":"user is not allowed to do action [find] on [<dbname>.users]","code":8000,"codeName":"AtlasError","stack":"MongoError: user is not allowed to do action [find] on [<dbname>.users]\n    at queryCallback (/home/lulu/Documents/3_developer_vilchez/3_proyectos/1_vidly/vidly_api/node_modules/mongodb-core/lib/cursor.js:223:25)\n    at /home/lulu/Documents/3_developer_vilchez/3_proyectos/1_vidly/vidly_api/node_modules/mongodb-core/lib/connection/pool.js:541:18\n    at _combinedTickCallback (internal/process/next_tick.js:132:7)\n    at process._tickCallback (internal/process/next_tick.js:181:9)","level":"error","timestamp":"2020-10-12T18:53:31.254Z"}
+{"message":"user is not allowed to do action [find] on [<dbname>.genres]","name":"MongoError","ok":0,"errmsg":"user is not allowed to do action [find] on [<dbname>.genres]","code":8000,"codeName":"AtlasError","stack":"MongoError: user is not allowed to do action [find] on [<dbname>.genres]\n    at queryCallback (/home/lulu/Documents/3_developer_vilchez/3_proyectos/1_vidly/vidly_api/node_modules/mongodb-core/lib/cursor.js:223:25)\n    at /home/lulu/Documents/3_developer_vilchez/3_proyectos/1_vidly/vidly_api/node_modules/mongodb-core/lib/connection/pool.js:541:18\n    at _combinedTickCallback (internal/process/next_tick.js:132:7)\n    at process._tickCallback (internal/process/next_tick.js:181:9)","level":"error","timestamp":"2020-10-12T18:54:59.222Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T18:56:02.178Z"}
+{"level":"info","message":"Connected to mongodb://prueba:prueba123@cluster0-shard-00-00.udkdg.mongodb.net:27017,cluster0-shard-00-01.udkdg.mongodb.net:27017,cluster0-shard-00-02.udkdg.mongodb.net:27017/vidly_staging?ssl=true&replicaSet=atlas-8ml4s5-shard-0&authSource=admin&retryWrites=true&w=majority...","timestamp":"2020-10-12T18:56:05.144Z"}
+{"message":"user is not allowed to do action [find] on [vidly_staging.genres]","name":"MongoError","ok":0,"errmsg":"user is not allowed to do action [find] on [vidly_staging.genres]","code":8000,"codeName":"AtlasError","stack":"MongoError: user is not allowed to do action [find] on [vidly_staging.genres]\n    at queryCallback (/home/lulu/Documents/3_developer_vilchez/3_proyectos/1_vidly/vidly_api/node_modules/mongodb-core/lib/cursor.js:223:25)\n    at /home/lulu/Documents/3_developer_vilchez/3_proyectos/1_vidly/vidly_api/node_modules/mongodb-core/lib/connection/pool.js:541:18\n    at _combinedTickCallback (internal/process/next_tick.js:132:7)\n    at process._tickCallback (internal/process/next_tick.js:181:9)","level":"error","timestamp":"2020-10-12T18:58:01.864Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T19:02:48.098Z"}
+{"level":"info","message":"Connected to mongodb://prueba:prueba123@cluster0-shard-00-00.udkdg.mongodb.net:27017,cluster0-shard-00-01.udkdg.mongodb.net:27017,cluster0-shard-00-02.udkdg.mongodb.net:27017/vidly_staging?ssl=true&replicaSet=atlas-8ml4s5-shard-0&authSource=admin&retryWrites=true&w=majority...","timestamp":"2020-10-12T19:02:50.671Z"}
+{"message":"user is not allowed to do action [find] on [vidly_staging.genres]","name":"MongoError","ok":0,"errmsg":"user is not allowed to do action [find] on [vidly_staging.genres]","code":8000,"codeName":"AtlasError","stack":"MongoError: user is not allowed to do action [find] on [vidly_staging.genres]\n    at queryCallback (/home/lulu/Documents/3_developer_vilchez/3_proyectos/1_vidly/vidly_api/node_modules/mongodb-core/lib/cursor.js:223:25)\n    at /home/lulu/Documents/3_developer_vilchez/3_proyectos/1_vidly/vidly_api/node_modules/mongodb-core/lib/connection/pool.js:541:18\n    at _combinedTickCallback (internal/process/next_tick.js:132:7)\n    at process._tickCallback (internal/process/next_tick.js:181:9)","level":"error","timestamp":"2020-10-12T19:03:01.153Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T19:06:46.424Z"}
+{"level":"info","message":"Connected to mongodb://prueba:prueba123@cluster0-shard-00-00.udkdg.mongodb.net:27017,cluster0-shard-00-01.udkdg.mongodb.net:27017,cluster0-shard-00-02.udkdg.mongodb.net:27017/vidly_staging?ssl=true&replicaSet=atlas-8ml4s5-shard-0&authSource=admin&retryWrites=true&w=majority...","timestamp":"2020-10-12T19:06:48.723Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T19:07:51.915Z"}
+{"level":"info","message":"Connected to mongodb://prueba:prueba123@cluster0-shard-00-00.udkdg.mongodb.net:27017,cluster0-shard-00-01.udkdg.mongodb.net:27017,cluster0-shard-00-02.udkdg.mongodb.net:27017/vidly_staging?ssl=true&replicaSet=atlas-8ml4s5-shard-0&authSource=admin&retryWrites=true&w=majority...","timestamp":"2020-10-12T19:07:56.224Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T19:11:51.572Z"}
+{"level":"info","message":"Connected to mongodb://prueba:prueba123@cluster0-shard-00-00.udkdg.mongodb.net:27017,cluster0-shard-00-01.udkdg.mongodb.net:27017,cluster0-shard-00-02.udkdg.mongodb.net:27017/vidly_staging?ssl=true&replicaSet=atlas-8ml4s5-shard-0&authSource=admin&retryWrites=true&w=majority...","timestamp":"2020-10-12T19:11:53.692Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T19:13:10.923Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T19:14:54.130Z"}
+{"level":"info","message":"Connected to mongodb://prueba:prueba123@cluster0-shard-00-00.udkdg.mongodb.net:27017,cluster0-shard-00-01.udkdg.mongodb.net:27017,cluster0-shard-00-02.udkdg.mongodb.net:27017/vidly_staging?ssl=true&replicaSet=atlas-8ml4s5-shard-0&authSource=admin&retryWrites=true&w=majority...","timestamp":"2020-10-12T19:14:56.654Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T19:16:23.339Z"}
+{"level":"info","message":"Connected to mongo cloud","timestamp":"2020-10-12T19:16:25.253Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T19:18:38.677Z"}
+{"level":"info","message":"Connected to mongo cloud","timestamp":"2020-10-12T19:18:40.529Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T19:18:55.460Z"}
+{"level":"info","message":"Connected to mongo cloud","timestamp":"2020-10-12T19:18:57.519Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T19:19:13.073Z"}
+{"level":"info","message":"Connected to mongo cloud","timestamp":"2020-10-12T19:19:15.035Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-12T19:19:22.173Z"}
+{"level":"info","message":"Connected to mongo cloud","timestamp":"2020-10-12T19:19:24.052Z"}
