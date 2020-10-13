@@ -1,5 +1,0 @@
-{
-  "jwtPrivateKey": "abc",
-  "db": "mongodb://localhost/vidly-staging",
-  "port" : 8080
-}
