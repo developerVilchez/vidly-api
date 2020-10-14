@@ -975,3 +975,5 @@
 {"level":"info","message":"Connected to mongo cloud","timestamp":"2020-10-14T05:29:32.896Z"}
 {"level":"info","message":"Listening on port 8080...","timestamp":"2020-10-14T05:39:36.057Z"}
 {"level":"info","message":"Connected to mongo cloud","timestamp":"2020-10-14T05:39:38.539Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2020-10-14T05:52:16.793Z"}
+{"level":"info","message":"Connected to mongo cloud","timestamp":"2020-10-14T05:52:18.535Z"}
